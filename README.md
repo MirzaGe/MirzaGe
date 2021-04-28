@@ -14,3 +14,10 @@
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/@mirzashaharyar1)
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mirza-shaharyar-baig-144ab9185/)](https://www.linkedin.com/in/mirza-shaharyar-baig-144ab9185/)
 [![GitHub iampawan](https://img.shields.io/github/followers/MirzaGe?label=follow&style=social)](https://github.com/MirzaGe)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
+
+
